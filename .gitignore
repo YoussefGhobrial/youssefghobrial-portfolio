@@ -1,0 +1,42 @@
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node modules
+/node_modules
+
+# IDEs and editors
+/.idea
+/.project
+/.classpath
+/.cproject
+/.settings
+/.vscode
+/.history
+
+# Local environment files (Secrets / API Keys)
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Angular CLI cache
+/.angular
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing
+/coverage
+
+# folders
+/Portfolio-project-planning
+Portfolio-project-planning
